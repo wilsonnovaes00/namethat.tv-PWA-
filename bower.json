@@ -1,0 +1,17 @@
+{
+  "name": "pwa-git",
+  "homepage": "https://github.com/wilsonnovaes00/namethat.tv-PWA-",
+  "authors": [
+    "Wilson Pereira Novaes Filho <wilsonnovaes00@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
