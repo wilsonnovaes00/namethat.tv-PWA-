@@ -1,1 +1,1 @@
-var app = angular.module('principal',['ngRoute']);
+const app = angular.module('principal', ['ngRoute']);
